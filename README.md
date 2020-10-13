@@ -17,3 +17,7 @@ Condition3: 600ms 800ms 1000ms
 Condition1: 200ms 300ms 450ms\
 Condition2: 300ms 450ms 675ms\
 Condition3: 450ms 675ms 10125s
+
+### Mixed subject design\
+Participants are assigned one of the three conditions randomly. (Between-subject)
+In the task a participant completes, each delay is presented randomly. (Within-subject)
