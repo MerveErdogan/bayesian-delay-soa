@@ -7,13 +7,13 @@ In another line of the research, psychophsical mapping of the delay on the sense
 Participants are asked to make a key press which produces a ball with a delay. 
 There are 3 different conditions in which the delays differ.
 
-Delays increase linearly\
+Linear-DelaySet-Condition\
 **Delays:** \
 Condition1: 200ms 400ms 600ms\
 Condition2: 400ms 600ms 800ms\
 Condition3: 600ms 800ms 1000ms
 
-To control discriminability, delays increase logarithmically\
+Logarithmic-DelaySet-Condition\
 **Delays:**\
 Condition1: 200ms 300ms 450ms\
 Condition2: 300ms 450ms 675ms\
