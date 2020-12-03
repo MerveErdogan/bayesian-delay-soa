@@ -1,4 +1,4 @@
-# Bayesian Logic Behind The Efect of Delay on SoA
+# Bayesian Logic Behind The Efect of Delay on Sense of Agency
 
 SoA is found to be decreasing as the delay between the outcome and the action increases.
 This study aims to look at whether this effect of the delay is absolute or it is dependent on the existing delays in the experiment.
